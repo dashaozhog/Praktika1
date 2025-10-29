@@ -1,0 +1,40 @@
+﻿What is the largest organ in the human body? A: Lungs B: Heart C: Skin D: Brain
+c
+Which planet is known as the "Red Planet"? A: Mars B: Jupiter C: Venus D: Mercury
+a
+Who wrote the novel To Kill a Mockingbird? A: Harper Lee B: J.K. Rowling C: Stephen King D: Mark Twain
+a
+In which city is the Brandenburg Gate located? A: Vienna B: Zurich C: Berlin D: Prague
+c
+What is the chemical symbol for the element gold? A: Au B: Ag C: Gd D: Fe
+a
+Which country is famous for pizza and pasta? A: Spain B: Italy C: Mexico D: Greece
+b
+What is the capital of Japan? A: Seoul B: Beijing C: Tokyo D: Bangkok
+c
+Which animal is the fastest land animal? A: Lion B: Cheetah C: Horse D: Gazelle
+b
+What is the powerhouse of the cell? A: Nucleus B: Ribosome C: Mitochondria D: Cytoplasm
+c
+Which gas is the most abundant in Earth's atmosphere? A: Oxygen B: Carbon dioxide C: Nitrogen D: Hydrogen
+c
+How many continents are there in the world? A: Five B: Six C: Seven D: Eight
+c
+Who was the first woman to win a Nobel Prize? A: Mother Teresa B: Marie Curie C: Ada Lovelace D: Rosalind Franklin
+b
+What is the fear of spiders called? A: Claustrophobia B: Acrophobia C: Arachnophobia D: Hydrophobia
+c
+What is the name of the fictional wizarding school in Harry Potter? A: Hogwarts B: Beauxbatons C: Durmstrang D: Ilvermorny
+a
+Which of the following is NOT a fruit? A: Rhubarb B: Tomatoes C: Avocados D: Bell Peppers
+a
+Which country has a shipwreck on its national flag? A: Bermuda B: Panama C: Greece D: Bahamas
+a
+What is the term for the process of converting sunlight into energy by plants? A: Respiration B: Photosynthesis C: Transpiration D: Digestion
+b
+Who painted the Mona Lisa? A: Vincent van Gogh B: Pablo Picasso C: Leonardo da Vinci D: Claude Monet
+c
+Which ocean is the largest on Earth? A: Atlantic B: Indian C: Arctic D: Pacific
+d
+In which country is the Chernobyl nuclear plant located? A: Russia B: Ukraine C: Poland D: Belarus
+b
